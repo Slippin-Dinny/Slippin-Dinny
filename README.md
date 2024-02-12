@@ -1,3 +1,3 @@
-- 👋 Hey there, i'm Danie
-- ✏️ I'm Studying Cyber Security.
-- 💬 I'm Interested in CTF's and Python.
+- 👋 Hey there, i'm Daniel
+- ✏️ I'm Studying Cyber Security
+- 💬 I'm Interested in CTF's and Python
