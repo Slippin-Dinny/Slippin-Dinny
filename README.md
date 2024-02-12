@@ -1,5 +1,7 @@
-### Hi there 👋
-
+- 👋 Hey there.
+- ⚡ I'm Daniel.
+- ✏️ I'm Studying Cyber Security.
+- 💬 I'm Interested in CTF's and Python.
 <!--
 **Daniel05Gallagher/Daniel05Gallagher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
