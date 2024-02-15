@@ -1,3 +1,4 @@
 - 👋 Hey there, i'm Daniel
 - ✏️ I'm Studying Cyber Security and Digital Forensics
 - 💬 I'm Interested in CTF's and Python projects
+- 📂 I like coding security and networking tools, I'm still learning and appreciate any and all input. 
